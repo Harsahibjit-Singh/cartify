@@ -76,7 +76,7 @@ I leveraged AI to accelerate boilerplate generation (like Tailwind CSS styling a
 
 1. **Clone the repository:**
    \`\`\`bash
-   git clone https://github.com/yourusername/cartify.git
+   git clone https://github.com/Harsahibjit-Singh/cartify.git
    cd cartify
    \`\`\`
 
