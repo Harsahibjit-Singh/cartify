@@ -1,5 +1,7 @@
 # Cartify 🛒 | Flipkart-Inspired Full-Stack E-Commerce
 
+🔗 # **Live Demo:** https://cartify-beryl.vercel.app
+
 Cartify is a high-fidelity, full-stack e-commerce web application designed to replicate the core user experience and UI patterns of Flipkart. This project was built from the ground up to demonstrate proficiency in complex state management, relational database architecture, and custom authentication flows.
 
 ## 🚀 Tech Stack
