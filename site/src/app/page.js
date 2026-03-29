@@ -242,9 +242,9 @@ function HomeContent() {
             {renderProductSlider("Trending In Fashion", fashion.length > 0 ? fashion : products)}
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4">
-              <img src="https://www.wordstream.com/wp-content/uploads/2021/07/sales20promotion20ideas20pet20supplies20plus202020percent20off_0_0.png" alt="Promo 1" className="w-full h-48 object-cover cursor-pointer shadow-sm hover:shadow-md transition rounded-sm" />
-              <img src="https://img.freepik.com/free-vector/gradient-sale-poster-with-photo_23-2149065321.jpg?semt=ais_incoming&w=740&q=80" alt="Promo 2" className="w-full h-48 object-cover cursor-pointer shadow-sm hover:shadow-md transition rounded-sm" />
-              <img src="https://a.storyblok.com/f/156985/600x295/cd6b7da7c3/flash-sale.png" alt="Promo 3" className="w-full h-48 object-cover cursor-pointer shadow-sm hover:shadow-md transition rounded-sm" />
+              <img src="https://rukminim2.flixcart.com/fk-p-flap/700/340/image/a63fa259927cbded.png?q=60" alt="Promo 1" className="w-full h-48 object-cover cursor-pointer shadow-sm hover:shadow-md transition rounded-sm" />
+              <img src="https://rukminim2.flixcart.com/fk-p-flap/700/340/image/69b208e6abd44683.png?q=60" alt="Promo 2" className="w-full h-48 object-cover cursor-pointer shadow-sm hover:shadow-md transition rounded-sm" />
+              <img src="https://rukminim2.flixcart.com/fk-p-flap/700/340/image/bce87b1f863dab9c.png?q=60" alt="Promo 3" className="w-full h-48 object-cover cursor-pointer shadow-sm hover:shadow-md transition rounded-sm" />
             </div>
           </>
         )}
